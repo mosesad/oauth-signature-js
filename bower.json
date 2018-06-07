@@ -6,7 +6,6 @@
     ".gitignore",
     ".travis.yml",
     "Gruntfile.js",
-    "package.json",
-    "src/"
+    "package.json"
   ]
 }
