@@ -1,12 +1,12 @@
 {
   "name": "oauth-signature",
   "description": "OAuth 1.0a signature generator (RFC 5849)",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "author": "Marco Bettiolo <marco@bettiolo.it> (https://github.com/bettiolo)",
   "homepage": "https://github.com/bettiolo/oauth-signature-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bettiolo/oauth-signature-js"
+    "url": "https://github.com/mosesad/oauth-signature-js"
   },
   "bugs": {
     "url": "http://github.com/bettiolo/oauth-signature-js/issues"
